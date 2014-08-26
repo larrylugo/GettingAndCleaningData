@@ -49,15 +49,15 @@ For this derived dataset, these signals were used to estimate variables of the f
 (iii) The set of variables
 Variables estimated on data set, according to directions from course team, were: 
 
-- mean(): Mean value
-- std(): Standard deviation
+- mean(): Mean value of previous variable
+- std(): Standard deviation of variables cited above
 - Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
-gravityMean
-tBodyAccMean
-tBodyAccJerkMean
-tBodyGyroMean
-tBodyGyroJerkMean
+--gravityMean
+--tBodyAccMean
+--tBodyAccJerkMean
+--tBodyGyroMean
+--tBodyGyroJerkMean
 
 Other estimates have been removed for the purpose of this excercise.
 
