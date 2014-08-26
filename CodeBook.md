@@ -52,7 +52,6 @@ Variables estimated on data set, according to directions from course team, were:
 
 - mean(): Mean value of previous variable
 - std(): Standard deviation of variables cited above
-- Additional vectors obtained by averaging the signals in a signal window sample.
 
 Other estimates have been removed for the purpose of this excercise.
 
