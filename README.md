@@ -15,10 +15,10 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 Check the README.txt file for further details about this dataset.
 
-Data The features (561 of them) are unlabeled and can be found in the corresponding files, as described in data set documentation. 
+The 561 features are unlabeled and can be found in the corresponding files, as described in data set documentation. 
 
 
-(ii) The script "run_analysis.R" and the "tidy.txt" dataset
+(iii) The script "run_analysis.R" and the "tidy.txt" dataset
 
 Following course's directions, an R script called run_analysis.R was written in order to do the following:
 - Merges the training and the test sets to create one data set.
@@ -27,5 +27,5 @@ Following course's directions, an R script called run_analysis.R was written in 
 - Appropriately labels the data set with descriptive variable names. 
 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-(iii) The Code Book
+(iv) The Code Book
 The CodeBook.md describes the variables, the data, and transformations performed to clean up, run the R script and get the tidy.txt data set.
