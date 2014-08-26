@@ -28,4 +28,5 @@ Following course's directions, an R script called run_analysis.R was written in 
 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 (iv) The Code Book
+
 The CodeBook.md describes the variables, the data, and transformations performed to clean up, run the R script and get the tidy.txt data set.
